@@ -1,0 +1,4 @@
+name = OSU Workbench
+description = Configurations for workbench integration.
+core = 7.x
+package = OSU
